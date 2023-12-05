@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2023-11-27T20:23:15.430Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 56,
+      "createdAt": "2023-11-27T20:23:44.430Z"
+    },
+    {
+      "id": 3,
+      "description": "Academia",
+      "type": "outcome",
+      "category": "Saúde",
+      "price": 120,
+      "createdAt": "2023-11-27T20:26:44.430Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-11-29T18:09:19.552Z",
+      "id": 4
+    },
+    {
+      "description": "Barra de proteina",
+      "price": 12,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2023-11-29T18:25:38.077Z",
+      "id": 5
+    },
+    {
+      "description": "Curso Direito Constitucional",
+      "price": 300,
+      "category": "Estudos",
+      "type": "outcome",
+      "createdAt": "2023-12-04T12:10:34.104Z",
+      "id": 6
+    }
+  ]
+}
